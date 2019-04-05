@@ -6,7 +6,7 @@
 * [Resources.cs](./CS/DXSample.Web/SchedulerDataModelCode/Resources.cs) (VB: [Resources.vb](./VB/DXSample.Web/SchedulerDataModelCode/Resources.vb))
 * [Appointment.cs](./CS/DXSample/DataObjects/Appointment.cs) (VB: [Appointment.vb](./VB/DXSample/DataObjects/Appointment.vb))
 * [Resource.cs](./CS/DXSample/DataObjects/Resource.cs) (VB: [Resource.vb](./VB/DXSample/DataObjects/Resource.vb))
-* [MainPage.xaml](./CS/DXSample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXSample/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DXSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXSample/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DXSample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXSample/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to bind the SchedulerControl to an XPO datasource
